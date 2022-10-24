@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+/* SECTION ONE */
+.header{
+    display: flex;
+    background-color: #1f2937;
+    justify-content: space-between;   
+}
+
+.logo{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    padding: 20px;
+}
+
+.logo-items{
+    display: flex;
+    align-items: center;
+}
+
+.logo-text{
+    color: #F9Faf8; 
+    font-size: 24px;
+}
+
+.header-links{
+    display: flex;
+    align-items: center;
+}
+
+.header-link{
+    color:#e5e7eb;
+    font-size: 18px;
+    text-decoration: none;
+    padding-right: 30px;
+}
+
