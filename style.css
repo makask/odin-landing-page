@@ -93,11 +93,11 @@ body{
 }
 
 .section-two-data{
-    display: flex;
-    
+    display: flex;  
     align-items: center;
     justify-content: center;
     gap:30px;
+    margin-bottom: 80px;
 }
 
 .section-two-data-item{
@@ -115,6 +115,34 @@ body{
     border-radius: 20px;
     margin: 10px;
 }
+
+/*SECTION THREE*/
+.section-three{
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7eb;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 100px;
+}
+
+.quote{
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+    padding-top: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.author{
+    font-size: 24px;
+    font-weight: bold;
+    padding-right: 350px;
+    text-align: right;
+}
+
+
 
 
 
