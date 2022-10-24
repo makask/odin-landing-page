@@ -141,6 +141,45 @@ body{
     padding-right: 350px;
     text-align: right;
 }
+/*SECTION FOUR*/
+.section-four{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-to-action{
+    display: flex;
+    background-color: #3882f6;
+    margin: 100px;
+    border-radius: 14px;
+    align-items: center;
+    gap: 140px;
+    padding: 20px 200px 20px 200px;
+}
+
+.call-to-action-text{
+    color:#e5e7eb;
+    font-size: 20px;
+}
+
+.btn-call-to-action{
+    background-color: #3882f6;
+    color:#e5e7eb;
+    font-size: 16px;
+    width: 120px;
+    height: 36px;
+    border: none;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #e5e7eb;
+}
+/*FOOTER*/
+
+
+
+
+
 
 
 
